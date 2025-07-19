@@ -10,7 +10,7 @@ Une application console simple en **C++** utilisant **SQLite3** comme base de do
 Pour cloner le projet :
 
 ```bash
-git clone https://github.com/votre-utilisateur/RecordManagementSystem.git
+git clone https://github.com/TomyRulliat-3ICS/ErasmusTask4.git
 cd RecordManagementSystem
 ```
 Assurez-vous que les fichiers suivants sont présents :
